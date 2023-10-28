@@ -1,0 +1,7 @@
+{
+"image_size": 640,
+"camera_dist": 300,   
+"elevation": 0,
+"azim_angle": 0,
+"obj_filename": "data/lm_models/obj_000001.ply"
+}

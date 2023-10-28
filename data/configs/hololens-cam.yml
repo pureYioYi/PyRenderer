@@ -1,0 +1,18 @@
+%YAML:1.0
+img_width: 896
+img_height: 504
+size_scale_factor: 1.
+fx: 677.8969
+fy: 677.1776
+cx: 439.2389 #439.2389 448
+cy: 231.5085 #231.5085 252
+has_dist_coeff: 0
+dist_px: 0
+dist_py: 0
+dist_k0: 0
+dist_k1: 0
+dist_k2: 0.
+dist_k3: 0.
+dist_k4: 0.
+dist_k5: 0.
+term_epsilon: 0

@@ -1,0 +1,8 @@
+{
+"image_size": 1024,
+"camera_dist": 10,   
+"elevation": [0, 90, 180],
+"azim_angle": [0, 60, 90, 180, 270],
+"obj_filename": "data/rooster/rooster_1.0.1_copy.obj",
+"z_coord": 0     
+}
